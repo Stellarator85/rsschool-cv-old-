@@ -6,7 +6,7 @@
     <title>Tymur Shcherbyna Curriculum Vitae</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
@@ -111,13 +111,13 @@
             </div>
         <!--Sidebar-section-->
         <aside class="Sidebar-section">
-            <img src="img/photo.jpg" alt="my photo">
+            <img src="photo.jpg" alt="my photo">
 
             <!--"Contacts"-section-->
             <div class="Contacts-section">
                 <h3 class="Sidebar-Title">Contacts</h3>
                 <div>
-                    <span class="Contact-Type">Phone:</span> <a href="tel:+77777777777" class="Contact-Content">+38 (068) 803-7148</a>
+                    <span class="Contact-Type">Phone:</span> <a href="tel:+380688037148" class="Contact-Content">+38 (068) 803-7148</a>
                 </div>
                 <div>
                     <span class="Contact-Type">E-mail:</span> <a href="mailto:stellarator85@gmail.com" class="Contact-Content">stellarator85@gmail.com</a>
