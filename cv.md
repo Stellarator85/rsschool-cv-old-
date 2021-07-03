@@ -181,7 +181,7 @@
             </li>
             <li class="Tech-Skills-content">
               <span class="Tech-Skills-item"
-                >JavaScript.........................Pre-junior level</span
+                >JavaScript......................Pre-junior level</span
               >
             </li>
             <li class="Tech-Skills-content">
