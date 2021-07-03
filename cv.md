@@ -15,7 +15,7 @@
     <div class="Main-section" style="display: flex; flex-direction: row-reverse; width: 1200px; background-color: #fff; margin: 40px auto">
       <!--Main content section-->
       <div class="Main-Content-section" 
-           style="padding: 60px 2218px 100px 45px;">
+           style="padding: 60px 218px 100px 45px;">
         <div class="About-Me-section">
           <!--"About Me"-section-->
           <div>
