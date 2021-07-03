@@ -200,7 +200,7 @@
         <!--"Soft Skills"-section-->
         <div class="Soft-Skills-section">
           <h3 class="Soft-Skills-title">Soft Skills</h3>
-          <ul class="Soft-Skills-list">
+          <ul class="Soft-Skills-list" style="padding: 0 0 0 18px">
             <li class="Soft-Skills-content">
               <span class="Soft-Skills-item">Fluent English</span>
             </li>
