@@ -13,7 +13,7 @@
   </head>
   <body>
     <!--Main section-->
-    <div class="Main-section" style="margin-left: 25px">
+    <div class="Main-section">
       <!--Main content section-->
       <div class="Main-Content-section">
         <div class="About-Me-section">
