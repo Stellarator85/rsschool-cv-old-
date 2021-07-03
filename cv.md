@@ -142,7 +142,7 @@
             <div class="Soft-Skills-section">
                 <h3 class="Soft-Skills-title">Soft Skills</h3>
                 <ul class="Soft-Skills-list">
-                    <li class="Soft-Skills-content"><span class="Soft-Skills-item">Scrum</span></li>
+                    <li class="Soft-Skills-content"><span class="Soft-Skills-item">Flue</span></li>
                     <li class="Soft-Skills-content"><span class="Soft-Skills-item">Agile</span></li>
                     <li class="Soft-Skills-content"><span class="Soft-Skills-item">GTD</span></li>
                     <li class="Soft-Skills-content"><span class="Soft-Skills-item">Teamwork</span></li>
