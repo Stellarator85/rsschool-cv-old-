@@ -106,14 +106,13 @@
             <h5 class="My-Education-specialty">Teacher</h5>
             <p class="Education-period">
               September 2004 - April 2008
-              <span class="My-Education-period-devider">|</span> Cherkasy,
-              Ukraine
+              <span class="My-Education-period-devider">|</span> Cherkasy, Ukraine
             </p>
           </div>
         </div>
       </div>
       <!--Sidebar-section-->
-      <aside class="Sidebar-section" style="margin-right: 50px">
+      <aside class="Sidebar-section" style="margin-right: 50px; width: 100px">
         <img src="photo.jpg" style="width: 370px" />
         <!--"Location"-section-->
         <div class="Contacts-section">
