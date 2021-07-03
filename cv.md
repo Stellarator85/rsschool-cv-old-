@@ -186,12 +186,12 @@
             </li>
             <li class="Tech-Skills-content">
               <span class="Tech-Skills-item"
-                >React.js.........................Pre-junior level</span
+                >React.js............................Pre-junior level</span
               >
             </li>
             <li class="Tech-Skills-content">
               <span class="Tech-Skills-item"
-                >Node.js..........................Pre-junior level</span
+                >Node.js............................Pre-junior level</span
               >
             </li>
           </ul>
