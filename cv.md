@@ -13,13 +13,13 @@
   </head>
   <body>
     <!--Main section-->
-    <div class="Main-section">
+    <div class="Main-section" style="margin-left: 25px">
       <!--Main content section-->
       <div class="Main-Content-section">
         <div class="About-Me-section">
           <!--"About Me"-section-->
           <div>
-            <h1 class="about-me-name" style="font-size: 86px">Tymur Shcherbyna</h1>
+            <h1 class="about-me-name" style="font-size: 70px">Tymur Shcherbyna</h1>
             <h3 class="Main-Content-Titles">About Me</h3>
             <p class="about-me-text">
               Full Stack Developer Wannabe & IT-Swicher.<br />
