@@ -112,8 +112,8 @@
         </div>
       </div>
       <!--Sidebar-section-->
-      <aside class="Sidebar-section" style="margin-right: 50px; width: 100px">
-        <img src="photo.jpg" style="width: 370px" />
+      <aside class="Sidebar-section" style="margin-right: 50px; width: 400px">
+        <img src="photo.jpg" style="width: 400px" />
         <!--"Location"-section-->
         <div class="Contacts-section">
           <h3 class="Sidebar-Title">Location</h3>
