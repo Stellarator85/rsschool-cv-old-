@@ -1,6 +1,5 @@
 body {
   font-family: 'Montserrat'; sens-serif;
-  width: 100px;
   background-color: #f5f7fa;
 }
 
@@ -47,14 +46,14 @@ margin-bottom: 20px;
 .about-me-name {
   font-style: normal;
   font-weight: bold;
-  font-size: 45px;
+  font-size: 65px;
   line-height: 55px;
-  color: #000000;
-  margin: 0 0 25px 0;
+  color: #1309094b;
+  margin: 0 0 90px 0;
 }
 
 .about-me-text{
-  width: 400px;
+  width: 600px;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -191,6 +190,7 @@ My-Work-Experience-position {
   padding-top: 40px;
 }
 
+.Location-section,
 .Contacts-section,
 .Tech-Skills-section {
   margin: 50px 0 0 40px;
@@ -203,6 +203,24 @@ My-Work-Experience-position {
   line-height: 27px;
   color: #FFFFFF;
   margin-bottom: 10px;
+}
+
+.Location-section{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #FFFFFF;
+  margin-right: 8px;
+}
+
+.Location-item{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #FFFFFF;
+  margin-right: 8px;
 }
 
 /* "Contacts"-section */
@@ -224,7 +242,7 @@ My-Work-Experience-position {
 }
 
 /* "Tech Skills"-section */
-.Tech-Skills-list {
+.Tech-Interests-list {
   padding: 0 0 0 18px;
 }
 
