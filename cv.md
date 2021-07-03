@@ -165,33 +165,33 @@
           <ul class="Tech-Interests-list" style="padding: 0 0 0 18px">
             <li class="Tech-Skills-content">
               <span class="Tech-Skills-item"
-                >HTML5..........................Junior level</span
+                >HTML5...........................Junior level</span
               >
             </li>
             <li class="Tech-Skills-content">
               <span class="Tech-Skills-item"
-                >CSS3...............................Junior level</span
+                >CSS3................................Junior level</span
               >
             </li>
             <li class="Tech-Skills-content">
               <span class="Tech-Skills-item"
-                >GIT...................................Junior
+                >GIT....................................Junior
                 level</span
               >
             </li>
             <li class="Tech-Skills-content">
               <span class="Tech-Skills-item"
-                >JavaScript..............Pre-junior level</span
+                >JavaScript...............Pre-junior level</span
               >
             </li>
             <li class="Tech-Skills-content">
               <span class="Tech-Skills-item"
-                >React.js...................Pre-junior level</span
+                >React.js....................Pre-junior level</span
               >
             </li>
             <li class="Tech-Skills-content">
               <span class="Tech-Skills-item"
-                >Node.js...................Pre-junior level</span
+                >Node.js....................Pre-junior level</span
               >
             </li>
           </ul>
