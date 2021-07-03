@@ -1,10 +1,9 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Resume</title>
+    <title>Tymur Shcherbyna Curriculum Vitae</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
@@ -118,10 +117,10 @@
             <div class="Contacts-section">
                 <h3 class="Sidebar-Title">Contacts</h3>
                 <div>
-                    <span class="Contact-Type">Phone:</span> <a href="tel:+77777777777" class="Contact-Content">+7 (777) 777-7777</a>
+                    <span class="Contact-Type">Phone:</span> <a href="tel:+77777777777" class="Contact-Content">+38 (068) 803-7148</a>
                 </div>
                 <div>
-                    <span class="Contact-Type">E-mail:</span> <a href="mailto:chornyiav@gmail.com" class="Contact-Content">chornyiav@gmail.com</a>
+                    <span class="Contact-Type">E-mail:</span> <a href="mailto:stellarator85@gmail.com" class="Contact-Content">stellarator85@gmail.com</a>
                 </div>
             </div>
 
