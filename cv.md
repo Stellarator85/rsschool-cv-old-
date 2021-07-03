@@ -162,7 +162,7 @@
         <!--"Tech Skills"-section-->
         <div class="Tech-Skills-section">
           <h3 class="Sidebar-Title">Tech Skills & Interests</h3>
-          <ul class="Tech-Interests-list">
+          <ul class="Tech-Interests-list" style="padding: 0 0 0 18px">
             <li class="Tech-Skills-content">
               <span class="Tech-Skills-item"
                 >HTML5...................................Junior level</span
