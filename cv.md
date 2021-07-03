@@ -18,8 +18,7 @@
     flex-direction: row-reverse;
     width: 1200px;
     background-color: #fff;
-    margin: 40px auto;
-    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1)">
+    margin: 40px auto">
       <!--Main content section-->
       <div class="Main-Content-section">
         <div class="About-Me-section">
