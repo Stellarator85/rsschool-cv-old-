@@ -131,10 +131,7 @@
                     <li class="Tech-Skills-content"><span class="Tech-Skills-item">HTML5</span></li>
                     <li class="Tech-Skills-content"><span class="Tech-Skills-item">CSS3</span></li>
                     <li class="Tech-Skills-content"><span class="Tech-Skills-item">GIT</span></li>
-                    <li class="Tech-Skills-content"><span class="Tech-Skills-item">WebPack</span></li>
                     <li class="Tech-Skills-content"><span class="Tech-Skills-item">JavaScript</span></li>
-                    <li class="Tech-Skills-content"><span class="Tech-Skills-item">React.js</span></li>
-                    <li class="Tech-Skills-content"><span class="Tech-Skills-item">Node.js</span></li>
                 </ul>
             </div>
             
@@ -142,9 +139,8 @@
             <div class="Soft-Skills-section">
                 <h3 class="Soft-Skills-title">Soft Skills</h3>
                 <ul class="Soft-Skills-list">
-                    <li class="Soft-Skills-content"><span class="Soft-Skills-item">Flue</span></li>
-                    <li class="Soft-Skills-content"><span class="Soft-Skills-item">Agile</span></li>
-                    <li class="Soft-Skills-content"><span class="Soft-Skills-item">GTD</span></li>
+                    <li class="Soft-Skills-content"><span class="Soft-Skills-item">Fluent English</span></li>
+                    <li class="Soft-Skills-content"><span class="Soft-Skills-item">Remote work experience</span></li>
                     <li class="Soft-Skills-content"><span class="Soft-Skills-item">Teamwork</span></li>
                 </ul>
             </div>
