@@ -113,7 +113,7 @@
         </div>
       </div>
       <!--Sidebar-section-->
-      <aside class="Sidebar-section">
+      <aside class="Sidebar-section" style="margin-left: 0px">
         <img src="photo.jpg" style="width: 370px" />
         <!--"Location"-section-->
         <div class="Contacts-section">
