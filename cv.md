@@ -14,7 +14,8 @@
     <!--Main section-->
     <div class="Main-section" style="display: flex; flex-direction: row-reverse; width: 1200px; background-color: #fff; margin: 40px auto">
       <!--Main content section-->
-      <div class="Main-Content-section"style="margin-left: 35px">
+      <div class="Main-Content-section" 
+           style="margin-left: 35px">
         <div class="About-Me-section">
           <!--"About Me"-section-->
           <div>
