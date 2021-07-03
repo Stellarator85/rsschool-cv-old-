@@ -18,8 +18,7 @@
                 <!--"About Me"-section-->
                 <div>
 
-                    <h2 class="about-me-profession">Front-End Developer</h2>
-                    <h1 class="about-me-name">Anton Chornyi</h1>
+                    <h1 class="about-me-name">Tymur Shcherbyna</h1>
 
                     <p class="about-me-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
                 </div>
